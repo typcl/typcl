@@ -1,19 +1,10 @@
 # Hey, I'm Tushar 👋
 
-Full-Stack Developer building scalable web applications and data pipelines.  
-Currently in my final year studying Information Technology in Delhi, India.
+Backend-focused Software Engineer building analytics infrastructure, ingestion pipelines, and performance-optimized systems.
+Working on production-grade reporting systems, database-native aggregation (Postgres RPC), and scalable backend workflows. 
+Final-year B.Tech Information Technology student based in Delhi, India.
 
 🌱 Currently exploring Go for backend development.
-
-## What I Work With
-
-**Languages:** JavaScript, Python, Java, C, Go, HTML, CSS  
-**Frontend:** React, Next.js, Redux, React Router  
-**Backend:** Node.js, Express, FastAPI, Flask, Scrapy  
-**Data & ML:** scikit-learn, TensorFlow, NumPy, Pandas, TF-IDF, Embeddings  
-**Databases:** MongoDB, PostgreSQL, MySQL, Neo4j, Weaviate  
-**DevOps & Cloud:** Docker, AWS (S3, SQS, EC2), Apache Kafka, Nginx, Linux/WSL  
-**Tools:** Git, Firebase Auth, WebSockets, OAuth, RESTful APIs
 
 ## Some of my Projects
 
