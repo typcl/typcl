@@ -21,5 +21,4 @@ Final-year B.Tech Information Technology student based in Delhi, India.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-malhan-9998ab256) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Tushar_Malhan_) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tusharmalhan2564@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=github&logoColor=white)](https://abratm.github.io/Portfolio)
 
