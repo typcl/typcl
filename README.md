@@ -8,11 +8,13 @@ Final-year B.Tech Information Technology student based in Delhi, India.
 
 ## Some of my Projects
 
-**[Veritas](https://github.com/AbraTM/Veritas)** - Research content aggregator with Kafka-based ingestion pipeline, multi-database architecture (PostgreSQL, Neo4j, Weaviate), and semantic search capabilities.
+**[gork](https://github.com/typcl/veritas)** - Production-inspired background job engine built in Go with autoscaling workers, pluggable queue backends, middleware support, and concurrency-focused architecture.
 
-**[Mail Maid](https://github.com/AbraTM/MailMaid)** - ML-powered email classifier achieving 83% accuracy across 7+ categories using fuzzy logic and Logistic Regression with TF-IDF embeddings.
+**[veritas](https://github.com/typcl/veritas)** - Research content aggregator with Kafka-based ingestion pipeline, multi-database architecture (PostgreSQL, Neo4j, Weaviate), and semantic search capabilities.
 
-**[DocTalk](https://github.com/AbraTM/DocTalk)** - Medical report summarizer with AI chatbot, featuring AWS-based async processing (SQS, EC2) and real-time WebSocket responses.
+**[mail maid](https://github.com/typcl/mailmaid)** - ML-powered email classifier achieving 83% accuracy across 7+ categories using fuzzy logic and Logistic Regression with TF-IDF embeddings.
+
+**[doctalk](https://github.com/typcl/doctalk)** - Medical report summarizer with AI chatbot, featuring AWS-based async processing (SQS, EC2) and real-time WebSocket responses.
 
 ## Let's Connect
 
