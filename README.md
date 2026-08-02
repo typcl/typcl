@@ -1,14 +1,16 @@
 # Hey, I'm Tushar 👋
 
-Backend-focused Software Engineer building analytics infrastructure, ingestion pipelines, and performance-optimized systems.
-Working on production-grade reporting systems, database-native aggregation (Postgres RPC), and scalable backend workflows. 
-Final-year B.Tech Information Technology student based in Delhi, India.
+Backend Software Engineer building analytics infrastructure, ingestion pipelines, and performance-optimized 
+systems in production — reporting systems, database-native aggregation (Postgres RPC), and scalable backend workflows.
+Based in Delhi, India. B.Tech in Information Technology, 2026.
 
-🌱 Currently exploring Go for backend development.
+🌱 Currently building distributed systems in Go.
 
 ## Some of my Projects
 
-**[gork](https://github.com/typcl/veritas)** - Production-inspired background job engine built in Go with autoscaling workers, pluggable queue backends, middleware support, and concurrency-focused architecture.
+**[haul](https://github.com/typcl/haul)** - Resumable file transfer service in Go with chunked gRPC uploads, BLAKE3 integrity verification, Redis-backed resume state, and TCP-style AIMD congestion control over a connection pool.
+
+**[gork](https://github.com/typcl/gork)** - Production-inspired background job engine built in Go with autoscaling workers, pluggable queue backends, middleware support, and concurrency-focused architecture.
 
 **[veritas](https://github.com/typcl/veritas)** - Research content aggregator with Kafka-based ingestion pipeline, multi-database architecture (PostgreSQL, Neo4j, Weaviate), and semantic search capabilities.
 
