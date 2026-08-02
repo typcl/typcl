@@ -2,6 +2,7 @@
 
 Backend Software Engineer building analytics infrastructure, ingestion pipelines, and performance-optimized 
 systems in production — reporting systems, database-native aggregation (Postgres RPC), and scalable backend workflows.
+
 Based in Delhi, India. B.Tech in Information Technology, 2026.
 
 🌱 Currently building distributed systems in Go.
